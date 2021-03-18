@@ -1,7 +1,11 @@
-![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif)
+
+🌈 | * | 🌈
+--|--|--
+.:* | ![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif) | *:.
+🌈 | ******************************************************************** | 🌈
 
 
-# Ztarby :octocat:
+# .:* Ztarby *:.
 
 hey, i do desgin , motion graphics and programming
 

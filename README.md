@@ -27,7 +27,7 @@ Medium
 Basic
 - javascript
 - python
-- some windows apis
+- windows forms and UWP api
 - premiere pro
 
 🏴 Goal: Be master of programing: C++, openGL directX and tensoflow

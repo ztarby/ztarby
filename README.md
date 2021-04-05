@@ -29,6 +29,7 @@ Basic
 - python
 - windows forms and UWP api
 - premiere pro
+- react
 
 🏴 Goal: Be master of programing: C++, openGL directX and tensoflow
 

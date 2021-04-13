@@ -9,12 +9,15 @@
 
 hey, i do desgin , motion graphics and programming
 
-skills:
-PRO
+# skills:
+
+![pro,medium,basic-3](https://user-images.githubusercontent.com/58752746/114506280-2c749f80-9bf7-11eb-9e78-2156847b5afb.png)
+## 🥇
 - photoshop
 - ilustrator
 
-Medium
+![pro,medium,basic-medium](https://user-images.githubusercontent.com/58752746/114506329-3dbdac00-9bf7-11eb-965d-9c3675db0fa1.png)
+## 🥈
 - after effects
 - C++
 - C#
@@ -24,12 +27,16 @@ Medium
 - html
 - Unity
 
-Basic
+![pro,medium,basic-trash-image](https://user-images.githubusercontent.com/58752746/114505931-b96b2900-9bf6-11eb-8ac3-5a607371a77d.png)
+## 🥉
 - javascript
 - python
 - windows forms and UWP api
 - premiere pro
 - react
+
+> later i do the images small
+
 
 🏴 Goal: Be master of programing: C++, openGL directX and tensoflow
 

@@ -11,12 +11,13 @@ hey, i do desgin , motion graphics and programming
 
 # skills:
 
-![pro,medium,basic-3](https://user-images.githubusercontent.com/58752746/114506280-2c749f80-9bf7-11eb-9e78-2156847b5afb.png)
+![pro,medium,basic real1_Mesa de trabajo 1](https://user-images.githubusercontent.com/58752746/115470784-7c0d2980-a1fc-11eb-9762-649391309b02.png)
 ## 🥇
 - photoshop
 - ilustrator
 
-![pro,medium,basic-medium](https://user-images.githubusercontent.com/58752746/114506329-3dbdac00-9bf7-11eb-965d-9c3675db0fa1.png)
+![pro,medium,basic real1_Mesa de trabajo 1 copia](https://user-images.githubusercontent.com/58752746/115470837-934c1700-a1fc-11eb-967f-66a8567f60de.png)
+
 ## 🥈
 - after effects
 - C++
@@ -27,7 +28,8 @@ hey, i do desgin , motion graphics and programming
 - html
 - Unity
 
-![pro,medium,basic-trash-image](https://user-images.githubusercontent.com/58752746/114505931-b96b2900-9bf6-11eb-8ac3-5a607371a77d.png)
+![pro,medium,basic real1_Mesa de trabajo 1 copia 2](https://user-images.githubusercontent.com/58752746/115470897-abbc3180-a1fc-11eb-95cf-dac82d90abc2.png)
+
 ## 🥉
 - javascript
 - python
@@ -35,11 +37,10 @@ hey, i do desgin , motion graphics and programming
 - premiere pro
 - react
 
-> later i do the images small
-
 
 🏴 Goal: Be master of programing: C++, openGL directX and tensoflow
 
+# Down my skills of code
 Thanks 🖤
 <!--
 **ztarby/ztarby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

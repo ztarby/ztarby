@@ -36,6 +36,7 @@ hey, i do desgin , motion graphics and programming
 - windows forms and UWP api
 - premiere pro
 - react
+- blender
 
 
 🏴 Goal: Be master of programing: C++, openGL directX and tensoflow

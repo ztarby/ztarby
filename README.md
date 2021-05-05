@@ -11,35 +11,22 @@ hey, i do desgin , motion graphics and programming
 
 # skills:
 
-![pro,medium,basic real1_Mesa de trabajo 1](https://user-images.githubusercontent.com/58752746/115470784-7c0d2980-a1fc-11eb-9762-649391309b02.png)
-## 🥇
-- photoshop
-- ilustrator
+![escala gif2](https://user-images.githubusercontent.com/58752746/117097613-b95fd400-ad31-11eb-93e6-ba9350452f32.gif)
 
-![pro,medium,basic real1_Mesa de trabajo 1 copia](https://user-images.githubusercontent.com/58752746/115470837-934c1700-a1fc-11eb-967f-66a8567f60de.png)
+| 🥇 | 🥈 | 🥉 |
+--|--|--
+|Phothoshop|C++|javascript|
+|ilustrator|C#|Python|
+| |uwp api | React|
+| | windows forms api |html |
+| |Unity |css |
 
-## 🥈
-- after effects
-- C++
-- C#
-- indesign
-- visual studio
-- CSS
-- html
-- Unity
+## **And more!!!**
 
-![pro,medium,basic real1_Mesa de trabajo 1 copia 2](https://user-images.githubusercontent.com/58752746/115470897-abbc3180-a1fc-11eb-95cf-dac82d90abc2.png)
+![html feo gif5](https://user-images.githubusercontent.com/58752746/117098084-11e3a100-ad33-11eb-9ab0-30e6197661b8.gif)
 
-## 🥉
-- javascript
-- python
-- windows forms and UWP api
-- premiere pro
-- react
-- blender
-
-
-🏴 Goal: Be master of programing: C++, openGL directX and tensoflow
+### 🏴 Goal: 
+Be master of programing: C++, openGL directX and machine learning
 
 # Down my skills of code
 Thanks 🖤

@@ -9,7 +9,11 @@
 
 # skills:
 
-![escala gif2](https://user-images.githubusercontent.com/58752746/117097613-b95fd400-ad31-11eb-93e6-ba9350452f32.gif)
+<!-- ![escala gif2](https://user-images.githubusercontent.com/58752746/117097613-b95fd400-ad31-11eb-93e6-ba9350452f32.gif) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztarby&show_icons=true&theme=dark)
+
+
 
 | 🥇 | 🥈 | 🥉 |
 --|--|--

@@ -23,9 +23,14 @@
 | | windows forms api |html |
 | |Unity |css |
 
-## **And more!!!**
+## ♥ Favorite language: C++ ✨
 
-![html feo gif5](https://user-images.githubusercontent.com/58752746/117098084-11e3a100-ad33-11eb-9ab0-30e6197661b8.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztarby&layout=compact)](https://github.com/ztarby/github-readme-stats)
+
+
+
+
 
 # 🏴 Goal: 
 - Master C++
@@ -35,7 +40,8 @@
 - Learn more NodeJS, react or a franework and be a fullstack
 - Learn all
 
-![Really neon gif9](https://user-images.githubusercontent.com/58752746/118576512-47828400-b74e-11eb-8b24-0b72293754ac.gif)
+<!-- ![Really neon gif9](https://user-images.githubusercontent.com/58752746/118576512-47828400-b74e-11eb-8b24-0b72293754ac.gif) -->
+![html feo gif5](https://user-images.githubusercontent.com/58752746/117098084-11e3a100-ad33-11eb-9ab0-30e6197661b8.gif)
 
 ## Down my skills of code
 Thanks 🖤

@@ -1,13 +1,13 @@
 <!-- ![ztb ico](https://user-images.githubusercontent.com/58752746/118578261-74846600-b751-11eb-9788-76dacd684c98.png) ddd -->
 
 
- ![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif)  | <h1> .:*Ztarby*:. </h1>  Semi senior (i think that) Mostly know C++ and little bit anothers languaje, yes i know motion graphics, Started like in 4 or 5 years in visual basic, abadoned visual basic and 1 or more year started really with C# now i created a file editor and stared a OpenGL course | ![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif)
+ ![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif)  | <h1> .:*Ztarby*:. </h1>  An stupid teen trying to program but falied lollolol, i like sponge bob, c++ , shaders , over the garden wall, webGL, c++ , blender... python???? (NOT my skills at all) my dream is create a videogame but for that i need to know programming lolollol. i know things like c++... and idk anymore loollool | ![zfa-gif8](https://user-images.githubusercontent.com/58752746/111704965-8dca6e00-8805-11eb-85bf-a299c81b6467.gif)
 --|--|--
 🌈 🌈 🌈 |  | 🌈 🌈 🌈 
 
 
 
-# skills:
+# My bad skills:
 
 <!-- ![escala gif2](https://user-images.githubusercontent.com/58752746/117097613-b95fd400-ad31-11eb-93e6-ba9350452f32.gif) -->
 
@@ -17,13 +17,14 @@
 
 | 🥇 | 🥈 | 🥉 |
 --|--|--
-|Phothoshop|C++|javascript|
-|ilustrator|C#|Python|
+|Not related to programing|C++|javascript|
+|blender (jk) |C#|Python|
 | |uwp api | React|
 | | windows forms api |html |
 | |Unity |css |
+| | | webGl|
 
-## ♥ Favorite language: C++ ✨
+## ♥ Most used languages in my trash repos.. ✨
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztarby&layout=compact)](https://github.com/ztarby/github-readme-stats)
@@ -34,16 +35,17 @@
 
 # 🏴 Goal: 
 - Master C++
-- Master OpenGL and DirectX
+- Master GLSL 
+- Learn OSL
 - Learn Machine learning
-- Learn Typescript
-- Learn more NodeJS, react or a franework and be a fullstack
-- Learn all
+- Learn Unreal engine C++
+- Learn Python and Blender python and be a master
+- Watch arcane
 
 <!-- ![Really neon gif9](https://user-images.githubusercontent.com/58752746/118576512-47828400-b74e-11eb-8b24-0b72293754ac.gif) -->
 ![html feo gif5](https://user-images.githubusercontent.com/58752746/117098084-11e3a100-ad33-11eb-9ab0-30e6197661b8.gif)
 
-## Down my skills of code
+## Down my extra spicy cringe repos
 Thanks 🖤
 <!--
 **ztarby/ztarby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
